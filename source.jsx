@@ -43,6 +43,13 @@ function resetGame() {
     skor_b = 0
     seri = 0
     main_game = 0
+    gunting = 0
+    batu = 0
+    kertas = 0
+
+    gunting_b = 0
+    batu_b = 0
+    kertas_b = 0
 
     last_move = null
 
